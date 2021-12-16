@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋 I'm dev1ous
 
-<!--
-**dev1ous/dev1ous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://visitor-badge.laobi.icu/badge?page_id=dev1ous.dev1ous)
+[![Github](https://img.shields.io/github/followers/dev1ous?label=Follow&style=social)](https://github.com/dev1ous)
 
-Here are some ideas to get you started:
+### :mortar_board: I'm a Developer student at Game Academy and Enthusiast learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on a Utility Based AI with the new "DOTS" of Unity
+- 🌱 I’m currently learning C# and Unity
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about my profile, my projects or the languages that i learned
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I competed during 11 years in swimming at National level
+
+### :school_satchel: Languages and Tools
+
+<img width="50px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%23.svg" /> <img width="50px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%2B%2B.svg" /> <img width="50px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c.svg" /> <img width="50px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/atom.svg" /> <img width="50px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/notepad%2B%2B.png" /> <img width="50px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/github.svg" /> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />  <img width="50px" src="https://camo.githubusercontent.com/f9c6fd1bc8ce0f2179b9d13b6aa0ba35b501a426896dfc3f19c6b6cc12d28682/68747470733a2f2f6669727374636f6e747269627574696f6e732e6769746875622e696f2f6173736574732f6775692d746f6f6c2d7475746f7269616c732f736f75726365747265652d6d61636f732d7475746f7269616c2f736f75726365747265652d6c6f676f2e706e67" />  <img width="50px" src="https://camo.githubusercontent.com/ee7c2a37b02913fa0c8391d5ac4902336333e57dde7ab47ace2fb2e01ed1682e/68747470733a2f2f7777772e7068702e6e65742f696d616765732f6c6f676f732f6e65772d7068702d6c6f676f2e737667" />  <img width="50px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" /> <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Logo_%282013-2017%29.svg" />
+
+### :trophy: My Github Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev1ous&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev1ous&theme=algolia)
+
