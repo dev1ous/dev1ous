@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning C# and Unity
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about my profile, my projects or the languages that i learned
-- 📫 How to reach me: ...
+- 📫 How to reach me: [<img align="center" widht="30px" height="30px" src="https://github.com/serendatapy/serendatapy/raw/main/assets/icons8-linkedin-circled.gif" />](https://www.linkedin.com/in/gr%C3%A9goire-faltrauer-b50b82228/)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I competed during 11 years in swimming at National level
 
