@@ -5,13 +5,13 @@
 
 ## :mortar_board: I'm a Developer student at Game Academy and Enthusiast learner
 
-- 🔭 I’m currently working on a Utility Based AI with the new "DOTS" of Unity
-- 🌱 I’m currently learning C# and Unity
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about my profile, my projects or the languages that i learned
-- 📫 How to reach me: [<img align="center" widht="30px" height="30px" src="https://github.com/serendatapy/serendatapy/raw/main/assets/icons8-linkedin-circled.gif" />](https://www.linkedin.com/in/grégoire-faltrauer-b50b82228)
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I competed during 11 years in swimming at National level
+- 🔭 I’m currently working on a Utility Based AI with the new "DOTS" of Unity <p align="center">
+- 🌱 I’m currently learning C# and Unity <p align="center">
+- 👯 I’m looking to collaborate on open source projects <p align="center">
+- 💬 Ask me about my profile, my projects or the languages that i learned <p align="center">
+- 📫 How to reach me: [<img align="top" widht="30px" height="30px" src="https://github.com/serendatapy/serendatapy/raw/main/assets/icons8-linkedin-circled.gif" />](https://www.linkedin.com/in/grégoire-faltrauer-b50b82228) <p align="center">
+- 😄 Pronouns: he/him/his <p align="center">
+- ⚡ Fun fact: I competed during 11 years in swimming at National level <p align="center">
 
 ## :school_satchel: Languages and Tools
 
