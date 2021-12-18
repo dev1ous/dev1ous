@@ -11,7 +11,7 @@
 - 💬 Ask me about my profile, my projects or the languages that i learned <p align="center">
 - 📫 How to reach me: [<img align="top" widht="30px" height="30px" src="https://github.com/serendatapy/serendatapy/raw/main/assets/icons8-linkedin-circled.gif" />](https://www.linkedin.com/in/grégoire-faltrauer-b50b82228) <p align="center">
 - 😄 Pronouns: he/him/his <p align="center">
-- ⚡ Fun fact: I competed during 11 years in swimming at National level <p align="center">
+- ⚡ Fun fact: nobody ever managed to write my name the first time
 
 ## :school_satchel: Languages and Tools
 
