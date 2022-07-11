@@ -6,7 +6,7 @@
 ## :mortar_board: I'm a Developer student at Game Academy and Enthusiast learner
 
 - 🔭 I’m currently working on a Utility Based AI with the new "DOTS" of Unity <p align="center">
-- 🌱 I’m currently learning Clojure <p align="center">
+- 🌱 I’m currently learning Clojure on Emacs <p align="center">
 - 👯 I’m looking to collaborate on open source projects <p align="center">
 - 💬 Ask me about my profile, my projects or the languages that i learned <p align="center">
 - 📫 How to reach me: [<img align="top" widht="30px" height="30px" src="https://github.com/serendatapy/serendatapy/raw/main/assets/icons8-linkedin-circled.gif" />](https://www.linkedin.com/in/grégoire-faltrauer-b50b82228) <p align="center">
