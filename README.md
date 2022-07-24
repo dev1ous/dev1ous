@@ -16,7 +16,7 @@
 ## :school_satchel: Languages and Tools
 
 #### -Languages :
-<img width="50px" src="https://ih1.redbubble.net/image.1005521090.1490/st,small,845x845-pad,1000x1000,f8f8f8.jpg" /> <img width="50px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%2B%2B.svg" /> <img width="50px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c.svg" />
+<img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" /> <img width="50px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%2B%2B.svg" /> <img width="50px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c.svg" />
   <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" />
 <img width="40px" src="https://camo.githubusercontent.com/ee7c2a37b02913fa0c8391d5ac4902336333e57dde7ab47ace2fb2e01ed1682e/68747470733a2f2f7777772e7068702e6e65742f696d616765732f6c6f676f732f6e65772d7068702d6c6f676f2e737667" />  <img width="40px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" />
 #### -Editors :
