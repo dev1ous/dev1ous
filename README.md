@@ -9,12 +9,12 @@
 - 🌱 I’m currently learning Clojure on Emacs <p align="center">
 - 👯 I’m looking to collaborate on open source projects <p align="center">
 - 💬 Ask me about my profile, my projects or the languages that i learned <p align="center">
-- 📫 How to reach me: [<img align="top" widht="30px" height="30px" src="https://github.com/serendatapy/serendatapy/raw/main/assets/icons8-linkedin-circled.gif" />](https://www.linkedin.com/in/grégoire-faltrauer-b50b82228) <p align="center">
+- 📫 How to reach me: [<img align="top" width="30px" height="30px" src="https://github.com/serendatapy/serendatapy/raw/main/assets/icons8-linkedin-circled.gif" />](https://www.linkedin.com/in/grégoire-faltrauer-b50b82228) <p align="center">
 - 😄 Pronouns: he/him/his <p align="center">
 - ⚡ Fun fact: nobody ever managed to write my name the first time
 
 ## :school_satchel: Languages and Tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<img width="50px" src="![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)" /> ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   
