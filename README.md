@@ -5,12 +5,9 @@
 
 ## :mortar_board: I'm a Developer student at Game Academy and Enthusiast learner
 
-- 🔭 I’m currently working on a meta-cpo based state machine in c++ <p align="center">
-- 🌱 I’m also learning Clojure <p align="center">
-- 👯 I’m looking to collaborate on open source projects <p align="center">
-- 💬 Ask me about my profile, my projects or the languages that i learn <p align="center">
-- 📫 How to reach me: [<img align="top" width="30px" height="30px" src="https://github.com/serendatapy/serendatapy/raw/main/assets/icons8-linkedin-circled.gif" />](https://www.linkedin.com/in/grégoire-faltrauer-b50b82228) <p align="center">
-- 😄 Pronouns: he/him/his <p align="center">
+- I’m currently working on a meta-cpo based state machine in c++ <p align="center">
+- I’m also learning Clojure <p align="center">
+- How to reach me: [<img align="top" width="30px" height="30px" src="https://github.com/serendatapy/serendatapy/raw/main/assets/icons8-linkedin-circled.gif" />](https://www.linkedin.com/in/grégoire-faltrauer-b50b82228) <p align="center">
 
 ## :school_satchel: Languages and Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
