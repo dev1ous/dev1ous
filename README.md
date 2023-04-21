@@ -11,12 +11,12 @@
 
 ## :school_satchel: Languages and Tools
   
-  - **Languages** : C, C#, C++, Clojure
-  - **API/Frameworks** : QT, SFML
-  - **Game Engines** : Unity, Unreal Engine
-  - **IDE** : Emacs, Visual Studio, Visual Studio Code, CLion
-  - **Versionning** : Github Desktop, Perforce Helix
-  - **Programming Interests** : Functional Programming, Concurrency, diverses Principles (S.O.L.I.D) and Patterns (Architecturals, Behaviourals, etc... )
+  - **Languages** : C, C#, C++, Clojure <p align="center">
+  - **API/Frameworks** : QT, SFML <p align="center">
+  - **Game Engines** : Unity, Unreal Engine <p align="center">
+  - **IDE** : Emacs, Visual Studio, Visual Studio Code, CLion <p align="center">
+  - **Versionning** : Github Desktop, Perforce Helix <p align="center">
+  - **Programming Interests** : Functional Programming, Concurrency, diverses Principles (S.O.L.I.D) and Patterns (Architecturals, Behaviourals, etc... ) <p align="center">
 
 ## :trophy: My Github Stats
 
