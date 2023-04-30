@@ -16,7 +16,7 @@
   - **Game Engines** : Unity, Unreal Engine <p align="center">
   - **IDE** : Emacs, Visual Studio, Visual Studio Code, CLion <p align="center">
   - **Versionning** : Github Desktop, Perforce Helix <p align="center">
-  - **Programming Interests** : Functional Programming, Concurrency, diverses Principles (S.O.L.I.D) and Patterns (Architecturals, Behaviourals, etc... ) <p align="center">
+  - **Programming Interests** : Functional Programming, Concurrency, diverses principles (S.O.L.I.D) and patterns (Architecturals, Behaviourals, etc... ) <p align="center">
 
 ## :trophy: My Github Stats
 
