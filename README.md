@@ -3,7 +3,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=dev1ous.dev1ous)
 [![Github](https://img.shields.io/github/followers/dev1ous?label=Follow&style=social)](https://github.com/dev1ous)
 
-## :mortar_board: I'm a Developer student at Game Academy and Enthusiast learner
+## :mortar_board: Enthusiast learner and glorious coding mistakes maker
 
 - I’m currently working on a meta-cpo based state machine in c++ <p align="center">
 - I’m also learning Clojure <p align="center">
