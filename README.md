@@ -8,7 +8,7 @@
 - I’m currently working on a meta-cpo based state machine in c++ <p align="center">
 - I’m also learning Clojure <p align="center">
 - How to reach me: [<img align="top" width="30px" height="30px" src="https://github.com/serendatapy/serendatapy/raw/main/assets/icons8-linkedin-circled.gif" />](https://www.linkedin.com/in/grégoire-faltrauer-b50b82228) <p align="center">
-- Fun fact about me : I'm not friendly
+- Fun fact about me : I'm not fun
 
 ## :school_satchel: Languages and Tools
   
